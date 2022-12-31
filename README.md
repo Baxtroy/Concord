@@ -1,6 +1,1 @@
-A simple discord bot
-
-
-
-
-Free forever
+a stupid bot
